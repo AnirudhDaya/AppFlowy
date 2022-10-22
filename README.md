@@ -91,7 +91,7 @@ To be honest, we do not claim to outperform Notion in terms of functionality and
 
 ## License
 
-Distributed under the AGPLv3 License. See `LICENSE.md` for more information.
+Distributed under the AGPLv3 License. See [`LICENSE.md`](https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE) for more information.
 
 ## Acknowledgements
 
